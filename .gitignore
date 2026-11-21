@@ -1,0 +1,13 @@
+# Office temporary and lock files
+~$*
+*.tmp
+*.bak
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs and caches
+*.log
+__pycache__/
